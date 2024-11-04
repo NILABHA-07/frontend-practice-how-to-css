@@ -1,0 +1,22 @@
+.main-area{
+    width: 450px;
+    margin: 100px auto;
+    background-color: #6CE299;
+    padding: 50px;
+    border-radius: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.main-area p{
+    width: 100%;
+    font-weight: 600;
+}
+.btn{
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid gray;
+    transition: background-color 0.3s ease,color 0.3s ease;
+}
+.btn:hover{
+    background-color: black;
+    color:white
+}
